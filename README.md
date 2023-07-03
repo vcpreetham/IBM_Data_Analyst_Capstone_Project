@@ -12,7 +12,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="/certificate/8H6UT8SHWYPD-1.png" width=80% height=80%>
+<img src="Certificates/Data analyst foundations.jpg" width=80% height=80%>
 
 ---
 
