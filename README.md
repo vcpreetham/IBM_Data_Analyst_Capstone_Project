@@ -77,7 +77,7 @@ Learn how to analyze data using Python. Topics covered:
 <p align="center">
 <img src="/Certificates/Course - 7.jpg" width=60% height=60%>
 
-- [x] [__Data Visualization with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20with%20Python)
+- [x] [__Data Visualization with Python__](https://github.com/vcpreetham/IBM_Data_Analyst_Capstone_Project/blob/main/Certificates/8.%20Coursera%20T8RFNGHGA4WF%20-%20Data%20Visualization%20with%20Python.pdf)
 
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
