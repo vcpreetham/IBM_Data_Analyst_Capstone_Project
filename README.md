@@ -35,7 +35,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 <img src="/Certificates/Course - 2.jpg" width=60% height=60%>
 
 
-- [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos)
+- [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/vcpreetham/IBM_Data_Analyst_Capstone_Project/blob/main/Certificates/3.%20Coursera%20WV9AYW48FCN9%20-%20Data%20Visualization%20and%20Dashboards%20using%20Excel%20and%20Cognos.pdf)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
