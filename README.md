@@ -92,4 +92,4 @@ In this course you will apply various Data Analytics skills and techniques that 
 <img src="/Certificates/Course - 9.jpg" width=60% height=60%>
 
 ---
-<p>&copy; 2021 Leah Nguyen</p>
+<p>&copy; 2023 Preetham V C</p>
