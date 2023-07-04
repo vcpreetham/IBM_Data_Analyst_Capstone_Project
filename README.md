@@ -56,7 +56,7 @@ This mini-course is intended to for you to demonstrate foundational Python skill
 <p align="center">
 <img src="/Certificates/Course - 5.jpg" width=60% height=60%>
 
-- [x] [__Databases and SQL for Data Science__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+- [x] [__Databases and SQL for Data Science__](https://github.com/vcpreetham/IBM_Data_Analyst_Capstone_Project/blob/main/Certificates/6.%20Coursera%20R8N4BUPMN5CG%20-%20Databases%20and%20SQL%20for%20Data%20science%20with%20Python.pdf)
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
