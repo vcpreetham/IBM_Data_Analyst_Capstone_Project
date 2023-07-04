@@ -63,7 +63,7 @@ The purpose of this course is to introduce relational database concepts and help
 <p align="center">
 <img src="/Certificates/Course - 6.jpg" width=60% height=60%>
 
-- [x] [__Data Analysis with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analysis%20With%20Python)
+- [x] [__Data Analysis with Python__](https://github.com/vcpreetham/IBM_Data_Analyst_Capstone_Project/blob/main/Certificates/7.%20Coursera%20QJ6TJC2KFPNU%20-%20Data%20Analysis%20with%20Python.pdf)
 
 Learn how to analyze data using Python. Topics covered:
 
